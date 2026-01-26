@@ -77,7 +77,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wS9a6EI1pQY4htnxBVUG" name="二期">
-    <mxGraphModel dx="2066" dy="1034" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,7 +138,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lb6-Yt79-_wJdsiAoF1G-17" parent="1" style="rhombus;html=1;rounded=0;align=center;whiteSpace=wrap;fontFamily=Helvetica;fontSize=14;" value="&lt;span data-docs-delta=&quot;[[20,&amp;quot;training_progress_message&amp;quot;,&amp;quot;inline-dir:\&amp;quot;ltr\&amp;quot;&amp;quot;]]&quot; data-copy-origin=&quot;https://cooper.didichuxing.com&quot;&gt;&lt;p class=&quot;ql-direction-ltr ql-long-10000343111&quot; style=&quot;line-height: 100%; margin-bottom: 0pt; margin-top: 0pt; color: rgb(73, 73, 73);&quot;&gt;&lt;span class=&quot;ql-author-10000343111&quot;&gt;表training progress message&lt;br&gt;中是否包含该任务的记录&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="Lb6-Yt79-_wJdsiAoF1G-17" parent="1" style="rhombus;html=1;rounded=0;align=center;whiteSpace=wrap;fontFamily=Helvetica;fontSize=14;" value="&lt;span data-docs-delta=&quot;[[20,&amp;quot;training_progress_message&amp;quot;,&amp;quot;inline-dir:\&amp;quot;ltr\&amp;quot;&amp;quot;]]&quot; data-copy-origin=&quot;https://cooper.didichuxing.com&quot;&gt;&lt;p class=&quot;ql-direction-ltr ql-long-10000343111&quot; style=&quot;line-height: 100%; margin-bottom: 0pt; margin-top: 0pt; color: rgb(73, 73, 73);&quot;&gt;&lt;span class=&quot;ql-author-10000343111&quot;&gt;表training_task_progress&lt;br&gt;中是否包含该任务的记录&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="118" width="225" x="217.5" y="446" as="geometry" />
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-18" edge="1" parent="1" source="Lb6-Yt79-_wJdsiAoF1G-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;" target="Lb6-Yt79-_wJdsiAoF1G-5">
@@ -162,7 +162,7 @@
         <mxCell id="0MQJLQ9s_x21rFk-uaMd-6" edge="1" parent="1" source="0MQJLQ9s_x21rFk-uaMd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;" target="0MQJLQ9s_x21rFk-uaMd-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0MQJLQ9s_x21rFk-uaMd-3" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" value="按数据集分组查表&lt;br&gt;&lt;span data-docs-delta=&quot;[[20,&amp;quot;training_progress_message&amp;quot;,&amp;quot;inline-dir:\&amp;quot;ltr\&amp;quot;&amp;quot;]]&quot; data-copy-origin=&quot;https://cooper.didichuxing.com&quot;&gt;&lt;p class=&quot;ql-direction-ltr ql-long-10000343111&quot; style=&quot;line-height: 100%; margin-bottom: 0pt; margin-top: 0pt; color: rgb(73, 73, 73);&quot;&gt;&lt;span class=&quot;ql-author-10000343111&quot;&gt;training_progress_message&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="0MQJLQ9s_x21rFk-uaMd-3" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" value="按数据集分组查表&lt;br&gt;&lt;span data-docs-delta=&quot;[[20,&amp;quot;training_progress_message&amp;quot;,&amp;quot;inline-dir:\&amp;quot;ltr\&amp;quot;&amp;quot;]]&quot; data-copy-origin=&quot;https://cooper.didichuxing.com&quot;&gt;&lt;p class=&quot;ql-direction-ltr ql-long-10000343111&quot; style=&quot;line-height: 100%; margin-bottom: 0pt; margin-top: 0pt; color: rgb(73, 73, 73);&quot;&gt;&lt;span class=&quot;ql-author-10000343111&quot;&gt;training_task_progress&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="61" width="171" x="1029.5" y="219" as="geometry" />
         </mxCell>
         <mxCell id="0MQJLQ9s_x21rFk-uaMd-11" edge="1" parent="1" source="0MQJLQ9s_x21rFk-uaMd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;" target="0MQJLQ9s_x21rFk-uaMd-10" value="">
