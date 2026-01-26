@@ -85,16 +85,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" value="接收消息" vertex="1">
-          <mxGeometry height="80" width="120" x="410" y="95" as="geometry" />
+          <mxGeometry height="80" width="120" x="269" y="112" as="geometry" />
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" value="结束" vertex="1">
-          <mxGeometry height="80" width="120" x="406" y="676" as="geometry" />
+          <mxGeometry height="80" width="120" x="265" y="693" as="geometry" />
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-6" edge="1" parent="1" source="Lb6-Yt79-_wJdsiAoF1G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;" target="Lb6-Yt79-_wJdsiAoF1G-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="669" y="248" />
-              <mxPoint x="669" y="716" />
+              <mxPoint x="528" y="265" />
+              <mxPoint x="528" y="733" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,7 +105,7 @@
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-8" edge="1" parent="1" source="Lb6-Yt79-_wJdsiAoF1G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;" target="Lb6-Yt79-_wJdsiAoF1G-12" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="471" y="335" as="targetPoint" />
+            <mxPoint x="330" y="352" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-9" connectable="0" parent="Lb6-Yt79-_wJdsiAoF1G-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=14;" value="是" vertex="1">
@@ -114,13 +114,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" value="消息是否合法" vertex="1">
-          <mxGeometry height="91" width="121" x="410" y="202" as="geometry" />
+          <mxGeometry height="91" width="121" x="269" y="219" as="geometry" />
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-11" edge="1" parent="1" source="Lb6-Yt79-_wJdsiAoF1G-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;" target="Lb6-Yt79-_wJdsiAoF1G-17" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" value="计算任务的预热和淘汰区间" vertex="1">
-          <mxGeometry height="60" width="120" x="411" y="334" as="geometry" />
+          <mxGeometry height="60" width="120" x="270" y="351" as="geometry" />
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-13" edge="1" parent="1" source="Lb6-Yt79-_wJdsiAoF1G-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;" target="Lb6-Yt79-_wJdsiAoF1G-19" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -139,19 +139,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-17" parent="1" style="rhombus;html=1;rounded=0;align=center;whiteSpace=wrap;fontFamily=Helvetica;fontSize=14;" value="&lt;span data-docs-delta=&quot;[[20,&amp;quot;training_progress_message&amp;quot;,&amp;quot;inline-dir:\&amp;quot;ltr\&amp;quot;&amp;quot;]]&quot; data-copy-origin=&quot;https://cooper.didichuxing.com&quot;&gt;&lt;p class=&quot;ql-direction-ltr ql-long-10000343111&quot; style=&quot;line-height: 100%; margin-bottom: 0pt; margin-top: 0pt; color: rgb(73, 73, 73);&quot;&gt;&lt;span class=&quot;ql-author-10000343111&quot;&gt;表training progress message&lt;br&gt;中是否包含该任务的记录&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="118" width="225" x="358.5" y="429" as="geometry" />
+          <mxGeometry height="118" width="225" x="217.5" y="446" as="geometry" />
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-18" edge="1" parent="1" source="Lb6-Yt79-_wJdsiAoF1G-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;" target="Lb6-Yt79-_wJdsiAoF1G-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-19" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;" value="入表" vertex="1">
-          <mxGeometry height="60" width="120" x="411" y="587" as="geometry" />
+          <mxGeometry height="60" width="120" x="270" y="604" as="geometry" />
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-20" edge="1" parent="1" source="Lb6-Yt79-_wJdsiAoF1G-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;" target="Lb6-Yt79-_wJdsiAoF1G-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-21" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;" value="完成两组区间的合并" vertex="1">
-          <mxGeometry height="60" width="120" x="185" y="458" as="geometry" />
+          <mxGeometry height="60" width="120" x="44" y="475" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
