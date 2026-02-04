@@ -151,7 +151,7 @@
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-134" connectable="0" parent="0MQJLQ9s_x21rFk-uaMd-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="是" vertex="1">
           <mxGeometry relative="1" x="-0.3581" y="2" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-30" edge="1" parent="1" source="0MQJLQ9s_x21rFk-uaMd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-29" value="">
@@ -215,7 +215,7 @@
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-33" connectable="0" parent="lkvMjk64QzoNXp6q_2ua-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=13;" value="是" vertex="1">
           <mxGeometry relative="1" x="-0.9681" y="-2" as="geometry">
-            <mxPoint y="-5" as="offset" />
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-43" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-34">
@@ -223,7 +223,7 @@
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-135" connectable="0" parent="lkvMjk64QzoNXp6q_2ua-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="否" vertex="1">
           <mxGeometry relative="1" x="-0.7935" y="2" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-29" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;" value="existed_dirs是否为空" vertex="1">
@@ -240,7 +240,7 @@
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-51" connectable="0" parent="lkvMjk64QzoNXp6q_2ua-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=13;" value="是" vertex="1">
           <mxGeometry relative="1" x="-0.1335" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-100" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-99" value="">
@@ -248,7 +248,7 @@
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-101" connectable="0" parent="lkvMjk64QzoNXp6q_2ua-100" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=13;" value="否" vertex="1">
           <mxGeometry relative="1" x="-0.1768" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-47" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;" value="查询底层接口，&lt;br&gt;目录是否在转储中" vertex="1">
@@ -283,7 +283,7 @@
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-73" connectable="0" parent="lkvMjk64QzoNXp6q_2ua-71" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=13;" value="否" vertex="1">
           <mxGeometry relative="1" x="-0.2667" y="2" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-80" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="lkvMjk64QzoNXp6q_2ua-79" value="">
@@ -339,7 +339,7 @@
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-111" connectable="0" parent="lkvMjk64QzoNXp6q_2ua-110" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=13;" value="是" vertex="1">
           <mxGeometry relative="1" x="-0.6945" y="-4" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-120" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;">
@@ -378,7 +378,7 @@
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-128" connectable="0" parent="lkvMjk64QzoNXp6q_2ua-127" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=13;" value="是" vertex="1">
           <mxGeometry relative="1" x="0.249" y="3" as="geometry">
-            <mxPoint y="-2" as="offset" />
+            <mxPoint x="-4" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-131" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-130" value="">
@@ -386,7 +386,7 @@
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-132" connectable="0" parent="lkvMjk64QzoNXp6q_2ua-131" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=13;" value="否" vertex="1">
           <mxGeometry relative="1" x="-0.2889" y="-4" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-124" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;" value="下发目录转储&lt;br&gt;请求，是否成功" vertex="1">
@@ -396,7 +396,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-126" parent="1" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;" value="更新表transition_dir_status,&lt;br&gt;status=2" vertex="1">
-          <mxGeometry height="60" width="120" x="1205" y="1062" as="geometry" />
+          <mxGeometry height="60" width="120" x="1205" y="1069" as="geometry" />
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-133" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;" target="0MQJLQ9s_x21rFk-uaMd-7">
           <mxGeometry relative="1" as="geometry" />
