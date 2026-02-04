@@ -300,8 +300,8 @@
         <mxCell id="lkvMjk64QzoNXp6q_2ua-72" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;" target="0MQJLQ9s_x21rFk-uaMd-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lkvMjk64QzoNXp6q_2ua-70" parent="1" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;" value="更新表transition_dir_status，status=2" vertex="1">
-          <mxGeometry height="60" width="120" x="643" y="962" as="geometry" />
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-70" parent="1" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;" value="更新表transition_dir_status，status=2，storage class=SSD/HDD" vertex="1">
+          <mxGeometry height="60" width="188" x="609" y="1012" as="geometry" />
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-84" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-83" value="">
           <mxGeometry relative="1" as="geometry" />
