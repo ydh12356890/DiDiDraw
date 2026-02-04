@@ -556,7 +556,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rjbo6M4MaDB7mgu5XT3H-44" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;动态加载层airflow task DAG&lt;/span&gt;" vertex="1">
+        <mxCell id="rjbo6M4MaDB7mgu5XT3H-44" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;span&gt;动态加载层airflow task DAG&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="746" y="1319" as="geometry" />
         </mxCell>
       </root>
