@@ -330,7 +330,7 @@
         <mxCell id="lkvMjk64QzoNXp6q_2ua-107" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;" target="0MQJLQ9s_x21rFk-uaMd-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lkvMjk64QzoNXp6q_2ua-83" parent="1" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;" value="发送转储超时告警" vertex="1">
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-83" parent="1" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;" value="更新status=4，&lt;br&gt;发送转储超时告警" vertex="1">
           <mxGeometry height="60" width="120" x="801" y="1089" as="geometry" />
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-105" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;" target="0MQJLQ9s_x21rFk-uaMd-7">
@@ -409,13 +409,13 @@
         <mxCell id="lkvMjk64QzoNXp6q_2ua-130" parent="1" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;" value="发送告警通知" vertex="1">
           <mxGeometry height="60" width="120" x="1025" y="957.5" as="geometry" />
         </mxCell>
-        <mxCell id="lkvMjk64QzoNXp6q_2ua-138" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-138" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="2: running" vertex="1">
           <mxGeometry height="80" width="80" x="1283" y="2103" as="geometry" />
         </mxCell>
-        <mxCell id="lkvMjk64QzoNXp6q_2ua-139" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-139" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="3: finish" vertex="1">
           <mxGeometry height="80" width="80" x="1436" y="2080" as="geometry" />
         </mxCell>
-        <mxCell id="lkvMjk64QzoNXp6q_2ua-141" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-141" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="1: init" vertex="1">
           <mxGeometry height="80" width="80" x="1139" y="2210" as="geometry" />
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-144" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
