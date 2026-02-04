@@ -515,6 +515,21 @@
         <mxCell id="rjbo6M4MaDB7mgu5XT3H-24" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=16;" value="Trail tiered storage controller" vertex="1">
           <mxGeometry height="117" width="176" x="570" y="1609" as="geometry" />
         </mxCell>
+        <mxCell id="rjbo6M4MaDB7mgu5XT3H-25" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="127" width="315.5" x="1133" y="1905" as="geometry" />
+        </mxCell>
+        <mxCell id="rjbo6M4MaDB7mgu5XT3H-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RDS库：voyager" vertex="1">
+          <mxGeometry height="30" width="103" x="1249.5" y="1905" as="geometry" />
+        </mxCell>
+        <mxCell id="rjbo6M4MaDB7mgu5XT3H-28" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;box-sizing: border-box; width: 100%; background: rgb(228, 228, 228); padding: 2px;&quot;&gt;training_task_progress&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;UK&lt;/td&gt;&lt;td&gt;task_id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="65" width="133" x="1141.5" y="1947" as="geometry" />
+        </mxCell>
+        <mxCell id="rjbo6M4MaDB7mgu5XT3H-31" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;box-sizing: border-box; width: 100%; background: rgb(228, 228, 228); padding: 2px;&quot;&gt;transition_dir_status&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;UK&lt;/td&gt;&lt;td&gt;volume+subpath&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="65" width="133" x="1296.5" y="1947" as="geometry" />
+        </mxCell>
+        <mxCell id="rjbo6M4MaDB7mgu5XT3H-32" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="1154.5" y="1585" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
