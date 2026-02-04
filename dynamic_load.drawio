@@ -352,7 +352,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lkvMjk64QzoNXp6q_2ua-99" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;" value="查询底层接口，&lt;br&gt;目录类型是否一致" vertex="1">
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-99" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;" value="查询底层接口，&lt;br&gt;待转储目录类型与底层真正的类型是否一致" vertex="1">
           <mxGeometry height="95.25" width="170" x="1255" y="733.75" as="geometry" />
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-112" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.556;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Helvetica;fontSize=13;" target="0MQJLQ9s_x21rFk-uaMd-7">
