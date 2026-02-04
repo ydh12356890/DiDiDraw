@@ -149,6 +149,11 @@
         <mxCell id="0MQJLQ9s_x21rFk-uaMd-11" edge="1" parent="1" source="0MQJLQ9s_x21rFk-uaMd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;" target="0MQJLQ9s_x21rFk-uaMd-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-134" connectable="0" parent="0MQJLQ9s_x21rFk-uaMd-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.3581" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-30" edge="1" parent="1" source="0MQJLQ9s_x21rFk-uaMd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-29" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -158,7 +163,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0MQJLQ9s_x21rFk-uaMd-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" value="是否有正在运行的任务" vertex="1">
-          <mxGeometry height="93" width="159" x="1035.5" y="320" as="geometry" />
+          <mxGeometry height="79" width="159" x="1035.5" y="320" as="geometry" />
         </mxCell>
         <mxCell id="0MQJLQ9s_x21rFk-uaMd-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" value="结束" vertex="1">
           <mxGeometry height="80" width="120" x="1080.5" y="1140" as="geometry" />
@@ -203,7 +208,7 @@
         <mxCell id="lkvMjk64QzoNXp6q_2ua-32" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;" target="0MQJLQ9s_x21rFk-uaMd-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1558" y="368" />
+              <mxPoint x="1558" y="360" />
               <mxPoint x="1558" y="1180" />
             </Array>
           </mxGeometry>
@@ -216,8 +221,13 @@
         <mxCell id="lkvMjk64QzoNXp6q_2ua-43" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-135" connectable="0" parent="lkvMjk64QzoNXp6q_2ua-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.7935" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-29" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;" value="existed_dirs是否为空" vertex="1">
-          <mxGeometry height="90.25" width="143" x="1259" y="322.75" as="geometry" />
+          <mxGeometry height="90.25" width="143" x="1263" y="314.38" as="geometry" />
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-115" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-114" value="">
           <mxGeometry relative="1" as="geometry" />
