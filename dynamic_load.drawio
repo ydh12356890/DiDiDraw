@@ -134,17 +134,17 @@
         <mxCell id="Lb6-Yt79-_wJdsiAoF1G-19" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;" value="入表" vertex="1">
           <mxGeometry height="60" width="120" x="112.5" y="509" as="geometry" />
         </mxCell>
-        <mxCell id="0MQJLQ9s_x21rFk-uaMd-4" edge="1" parent="1" source="0MQJLQ9s_x21rFk-uaMd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;" target="0MQJLQ9s_x21rFk-uaMd-3" value="">
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-27" edge="1" parent="1" source="0MQJLQ9s_x21rFk-uaMd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lkvMjk64QzoNXp6q_2ua-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0MQJLQ9s_x21rFk-uaMd-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" value="开始" vertex="1">
-          <mxGeometry height="80" width="120" x="1055" y="110" as="geometry" />
+          <mxGeometry height="80" width="120" x="1055" y="26" as="geometry" />
         </mxCell>
         <mxCell id="0MQJLQ9s_x21rFk-uaMd-6" edge="1" parent="1" source="0MQJLQ9s_x21rFk-uaMd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;" target="0MQJLQ9s_x21rFk-uaMd-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0MQJLQ9s_x21rFk-uaMd-3" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" value="按数据集分组查表&lt;br&gt;&lt;span data-docs-delta=&quot;[[20,&amp;quot;training_progress_message&amp;quot;,&amp;quot;inline-dir:\&amp;quot;ltr\&amp;quot;&amp;quot;]]&quot; data-copy-origin=&quot;https://cooper.didichuxing.com&quot;&gt;&lt;p class=&quot;ql-direction-ltr ql-long-10000343111&quot; style=&quot;line-height: 100%; margin-bottom: 0pt; margin-top: 0pt; color: rgb(73, 73, 73);&quot;&gt;&lt;span class=&quot;ql-author-10000343111&quot;&gt;training_task_progress&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="61" width="171" x="1029.5" y="219" as="geometry" />
+        <mxCell id="0MQJLQ9s_x21rFk-uaMd-3" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;查询&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(73, 73, 73), rgb(174, 174, 174)); background-color: transparent;&quot;&gt;training_task_progress表，获取所有运行中的任务，按数据集分组，逐个处理&lt;/span&gt;" vertex="1">
+          <mxGeometry height="61" width="171" x="1029.5" y="234" as="geometry" />
         </mxCell>
         <mxCell id="0MQJLQ9s_x21rFk-uaMd-11" edge="1" parent="1" source="0MQJLQ9s_x21rFk-uaMd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;" target="0MQJLQ9s_x21rFk-uaMd-10" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -321,6 +321,12 @@
         </mxCell>
         <mxCell id="lkvMjk64QzoNXp6q_2ua-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=0;fontFamily=Helvetica;" value="两种索引是否冲突&lt;br&gt;或异常" vertex="1">
           <mxGeometry height="116" width="152" x="253" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-28" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0MQJLQ9s_x21rFk-uaMd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-25" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" value="查询transition_dir_status表，获取status=1目录，记为existed_dirs" vertex="1">
+          <mxGeometry height="61" width="171" x="1029.5" y="143" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
