@@ -146,7 +146,7 @@
         <mxCell id="lkvMjk64QzoNXp6q_2ua-44" edge="1" parent="1" source="0MQJLQ9s_x21rFk-uaMd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0MQJLQ9s_x21rFk-uaMd-10" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" value="按数据集分组，逐个处理，合并使用某个数据集的所有运行中训练任务的预热和淘汰区间，最终汇总所有数据集的预热、淘汰区间，得到current_dirs" vertex="1">
+        <mxCell id="0MQJLQ9s_x21rFk-uaMd-10" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" value="查询数据集配置，按数据集分组，逐个处理，合并使用某个数据集的所有运行中训练任务的预热和淘汰区间，最终汇总所有数据集的预热、淘汰区间，得到current_dirs" vertex="1">
           <mxGeometry height="77" width="269" x="980.5" y="436" as="geometry" />
         </mxCell>
         <mxCell id="jOOAH0y8vCl0eMwZYdH1-13" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jOOAH0y8vCl0eMwZYdH1-9">
