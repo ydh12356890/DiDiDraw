@@ -365,20 +365,65 @@
         <mxCell id="lkvMjk64QzoNXp6q_2ua-130" parent="1" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;" value="发送告警通知" vertex="1">
           <mxGeometry height="60" width="120" x="1025" y="957.5" as="geometry" />
         </mxCell>
-        <mxCell id="lkvMjk64QzoNXp6q_2ua-138" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="2: running" vertex="1">
-          <mxGeometry height="80" width="80" x="1283" y="2103" as="geometry" />
+        <mxCell id="jOOAH0y8vCl0eMwZYdH1-28" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-141">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lkvMjk64QzoNXp6q_2ua-139" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="3: finish" vertex="1">
-          <mxGeometry height="80" width="80" x="1436" y="2080" as="geometry" />
+        <mxCell id="jOOAH0y8vCl0eMwZYdH1-29" connectable="0" parent="jOOAH0y8vCl0eMwZYdH1-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="待转储的类型与正在&lt;br&gt;转储中类型不一致" vertex="1">
+          <mxGeometry relative="1" x="-0.2974" y="1" as="geometry">
+            <mxPoint x="7" y="36" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="lkvMjk64QzoNXp6q_2ua-141" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="1: init" vertex="1">
-          <mxGeometry height="80" width="80" x="1139" y="2210" as="geometry" />
+        <mxCell id="jOOAH0y8vCl0eMwZYdH1-30" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-139">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lkvMjk64QzoNXp6q_2ua-144" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="1477" y="2187" as="geometry" />
+        <mxCell id="jOOAH0y8vCl0eMwZYdH1-31" connectable="0" parent="jOOAH0y8vCl0eMwZYdH1-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="目录已是&lt;br&gt;待转储的类型" vertex="1">
+          <mxGeometry relative="1" x="-0.1787" y="-2" as="geometry">
+            <mxPoint x="10" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="lkvMjk64QzoNXp6q_2ua-145" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="1315" y="2254" as="geometry" />
+        <mxCell id="jOOAH0y8vCl0eMwZYdH1-33" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOOAH0y8vCl0eMwZYdH1-34" connectable="0" parent="jOOAH0y8vCl0eMwZYdH1-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="转储超时" vertex="1">
+          <mxGeometry relative="1" x="0.1515" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-138" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;" value="2: running" vertex="1">
+          <mxGeometry height="80" width="80" x="1194.5" y="2027" as="geometry" />
+        </mxCell>
+        <mxCell id="jOOAH0y8vCl0eMwZYdH1-32" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-139" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOOAH0y8vCl0eMwZYdH1-35" connectable="0" parent="jOOAH0y8vCl0eMwZYdH1-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="待转储类型与&lt;br&gt;目录类型不一致" vertex="1">
+          <mxGeometry relative="1" x="-0.2073" y="-1" as="geometry">
+            <mxPoint x="10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-139" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;" value="3: finish" vertex="1">
+          <mxGeometry height="80" width="80" x="1443" y="2027" as="geometry" />
+        </mxCell>
+        <mxCell id="jOOAH0y8vCl0eMwZYdH1-25" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-141" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOOAH0y8vCl0eMwZYdH1-26" connectable="0" parent="jOOAH0y8vCl0eMwZYdH1-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="转储请求&lt;br&gt;下发成功" vertex="1">
+          <mxGeometry relative="1" x="0.1406" y="2" as="geometry">
+            <mxPoint x="1" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-141" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;" value="1: init" vertex="1">
+          <mxGeometry height="80" width="80" x="1194.5" y="2208" as="geometry" />
+        </mxCell>
+        <mxCell id="jOOAH0y8vCl0eMwZYdH1-36" edge="1" parent="1" source="lkvMjk64QzoNXp6q_2ua-145" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" target="lkvMjk64QzoNXp6q_2ua-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOOAH0y8vCl0eMwZYdH1-37" connectable="0" parent="jOOAH0y8vCl0eMwZYdH1-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="新的转储请求下发" vertex="1">
+          <mxGeometry relative="1" x="-0.2828" y="3" as="geometry">
+            <mxPoint x="6" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lkvMjk64QzoNXp6q_2ua-145" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;" value="4: failed" vertex="1">
+          <mxGeometry height="80" width="80" x="983" y="2027" as="geometry" />
         </mxCell>
         <mxCell id="rjbo6M4MaDB7mgu5XT3H-1" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" value="kafka集群" vertex="1">
           <mxGeometry height="80" width="120" x="488" y="1335" as="geometry" />
