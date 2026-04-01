@@ -47,7 +47,7 @@
           <mxGeometry height="30" width="106" x="310" y="200" as="geometry" />
         </mxCell>
         <mxCell id="51F9ulJmjrOd18aaf4gO-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Start" vertex="1">
-          <mxGeometry height="30" width="60" x="110" y="350" as="geometry" />
+          <mxGeometry height="30" width="60" x="123" y="350" as="geometry" />
         </mxCell>
         <mxCell id="51F9ulJmjrOd18aaf4gO-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="End" vertex="1">
           <mxGeometry height="30" width="60" x="1460" y="350" as="geometry" />
