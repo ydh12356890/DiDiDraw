@@ -4,20 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="51F9ulJmjrOd18aaf4gO-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="迁移前治理" vertex="1">
+        <mxCell id="51F9ulJmjrOd18aaf4gO-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="迁移前&lt;br&gt;治理" vertex="1">
           <mxGeometry height="30" width="82.5" x="214" y="384.5" as="geometry" />
         </mxCell>
-        <mxCell id="51F9ulJmjrOd18aaf4gO-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="业务侧适配" vertex="1">
+        <mxCell id="51F9ulJmjrOd18aaf4gO-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="业务侧&lt;br&gt;适配" vertex="1">
           <mxGeometry height="30" width="82.5" x="393" y="384.5" as="geometry" />
         </mxCell>
-        <mxCell id="51F9ulJmjrOd18aaf4gO-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="源集群禁写" vertex="1">
+        <mxCell id="51F9ulJmjrOd18aaf4gO-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="源集群&lt;br&gt;禁写" vertex="1">
           <mxGeometry height="30" width="82.5" x="573" y="384.5" as="geometry" />
         </mxCell>
-        <mxCell id="51F9ulJmjrOd18aaf4gO-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="迁移与校验" vertex="1">
+        <mxCell id="51F9ulJmjrOd18aaf4gO-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="迁移与&lt;br&gt;校验" vertex="1">
           <mxGeometry height="30" width="82.5" x="745" y="384.5" as="geometry" />
         </mxCell>
         <mxCell id="51F9ulJmjrOd18aaf4gO-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="业务侧切读与验证" vertex="1">
-          <mxGeometry height="45" width="87" x="922" y="380" as="geometry" />
+          <mxGeometry height="53" width="106" x="910" y="373" as="geometry" />
         </mxCell>
         <mxCell id="51F9ulJmjrOd18aaf4gO-26" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
